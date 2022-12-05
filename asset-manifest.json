@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RasmusAppelgren/todo-app-react.git/static/css/main.073c9b0a.css",
+    "main.js": "/RasmusAppelgren/todo-app-react.git/static/js/main.f4df3a16.js",
+    "index.html": "/RasmusAppelgren/todo-app-react.git/index.html",
+    "main.073c9b0a.css.map": "/RasmusAppelgren/todo-app-react.git/static/css/main.073c9b0a.css.map",
+    "main.f4df3a16.js.map": "/RasmusAppelgren/todo-app-react.git/static/js/main.f4df3a16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f4df3a16.js"
+  ]
+}
